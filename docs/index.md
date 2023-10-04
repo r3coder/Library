@@ -1,11 +1,22 @@
-# Obsidian Notes
 
-Publish your public notes with MkDocs
+논문과 관련 개념을 위키처럼 정리할 예정입니다.
 
-## Hello World!
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+# [[태그 목록 및 설명]]
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+이 곳에서 사용되는 모든 태그에 대한 설명을 기록합니다.
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+# 내용 작성이 필요한 문서 일람
+
+[[Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference]]
+
+[[With Shared Microexponents, A Little Shifting Goes a Long Way]]
+
+
+
+
+
+
+# 문서 정리 규칙
+
+일단은 년도별로 분류?
